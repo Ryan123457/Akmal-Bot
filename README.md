@@ -34,14 +34,14 @@ pkg install ffmpeg
 pkg install libwebp 
 pkg install imagemagick
 pkg install bash
-git clone https://github.com/Zero-YT7/Base-ZeroYT7.git
+git clone https://github.com/Ryan123457/Akmal-Bot
 cd Akmal-Bot
 npm install
 npm start
 ```
 ## For Windows
 ```bash
-git clone https://github.com/Zero-YT7/Base-ZeroYT7.git
+git clone https://github.com/Ryan123457/Akmal-Bot
 cd Akmal-Bot
 npm install
 npm start
@@ -54,7 +54,7 @@ apt apt install ffmpeg
 apt apt install libwebp 
 apt apt install imagemagick
 apt install bash
-git clone https://github.com/Zero-YT7/Base-ZeroYT7.git
+git clone https://github.com/Ryan123457/Akmal-Bot
 cd Akmal-Bot
 npm install
 npm start
